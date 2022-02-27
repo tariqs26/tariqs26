@@ -1,12 +1,13 @@
-### Hi there 👋
-
+### Hi there 👋, i'm Saad
+- 🎓I am studying CS at Mcmaster University
+- 🌱 I’m currently learning Javascript and django
+- 💬 Ask me about Python, C, or building pc's
 <!--
 **tariqs26/tariqs26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
