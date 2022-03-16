@@ -1,5 +1,5 @@
 ### Hi there 👋, i'm Saad
-- 🎓I am studying CS at Mcmaster University
+- 🎓I am studying CS at McMaster University
 - 🌱 I’m currently learning Javascript and django
 - 💬 Ask me about Python, C, or building pc's
 <!--
