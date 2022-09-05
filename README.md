@@ -1,7 +1,7 @@
 ### Hi there 👋, i'm Saad
 - 🎓I am studying Computer Science at McMaster University
-- 🌱 I’m currently learning javascript and django
-- 📫 You can reach out to me on linked-in [https://www.linkedin.com/in/saad-tariq-cs/](https://www.linkedin.com/in/saad-tariq-cs/)
+- 🌱 I’m currently learning node.js, NestJs and MongoDB
+- 📫 You can reach out to me on [linkedin](https://www.linkedin.com/in/saad-tariq-cs/)
 <!--
 **tariqs26/tariqs26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
