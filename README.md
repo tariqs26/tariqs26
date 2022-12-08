@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning node.js, express.js, mongoDB, postgreSQL, next.js, prisma
 - 📫 Feel free to reach out to me on [linkedin](https://www.linkedin.com/in/saad-tariq-cs/)
 - 💬 Ask me about anything related to web development
-<!--
-**tariqs26/tariqs26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Statistics
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tariqs26&show_icons=true&theme=radical)
+<!--
 - 👯 I’m looking to collaborate on ...
 - ⚡ Fun fact: ...
 -->
