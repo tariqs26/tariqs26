@@ -5,7 +5,7 @@
 - 📫 Feel free to reach out to me on [linkedin](https://www.linkedin.com/in/saad-tariq-cs/)
 - 💬 Ask me about anything related to web development
 
-### Statistics
+### Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tariqs26&show_icons=true&theme=tokyonight)
 <!--
 - 👯 I’m looking to collaborate on ...
