@@ -5,6 +5,15 @@
 - 📫 Feel free to reach out to me on [linkedin](https://www.linkedin.com/in/saad-tariq-cs/)
 - 💬 Ask me about anything related to web development
 
+### Tech Stack:
+
+#### Languages:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,c,bash)](https://skillicons.dev)
+#### Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=react,next,redux)](https://skillicons.dev)
+
+#### Technologies:
+
 ### Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tariqs26&show_icons=true&theme=tokyonight)
 <!--
