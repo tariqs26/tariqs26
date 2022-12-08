@@ -8,9 +8,9 @@
 ### Tech Stack:
 
 #### Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,c,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,c,bash&theme=dark)](https://skillicons.dev)
 #### Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=react,next,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,redux&theme=dark)](https://skillicons.dev)
 
 #### Technologies:
 
