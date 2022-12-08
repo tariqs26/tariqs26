@@ -17,8 +17,10 @@
 [![My Skills](https://skillicons.dev/icons?i=git,mongodb,postgresql,prisma,vscode,linux&theme=dark)](https://skillicons.dev)
 
 ### Stats:
+<div style="display:flex;align-items:center">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tariqs26&show_icons=true&theme=tokyonight&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tariqs26&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tariqs26&&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <!--
 - 👯 I’m looking to collaborate on ...
 - ⚡ Fun fact: ...
