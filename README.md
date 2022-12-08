@@ -6,7 +6,7 @@
 - 💬 Ask me about anything related to web development
 
 ### Statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tariqs26&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tariqs26&show_icons=true&theme=dark)
 <!--
 - 👯 I’m looking to collaborate on ...
 - ⚡ Fun fact: ...
