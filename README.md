@@ -8,13 +8,13 @@
 ### Tech Stack:
 
 #### Languages:
-![Languages](https://skillicons.dev/icons?i=js,ts,python,java,c,bash&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,python,java,c,bash&theme=dark)](https://skillicons.dev)
 
 #### Frameworks and Libraries:
-![Frameworks and Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express&theme=dark)](https://skillicons.dev)
+[![Frameworks and Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express&theme=dark)](https://skillicons.dev)
 
 #### Technologies:
-![Technologies](https://skillicons.dev/icons?i=git,mongodb,postgresql,prisma,vscode,linux&theme=dark)](https://skillicons.dev)
+[[Technologies](https://skillicons.dev/icons?i=git,mongodb,postgresql,prisma,vscode,linux&theme=dark)](https://skillicons.dev)
 
 ### Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tariqs26&show_icons=true&theme=tokyonight&count_private=true)
