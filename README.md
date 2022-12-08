@@ -11,14 +11,15 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,c,bash&theme=dark)](https://skillicons.dev)
 
 #### Frameworks and Libraries:
-[![My Skills](https://skillicons.dev/icons?i=react,next,redux,node,express&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,redux,nodejs,express&theme=dark)](https://skillicons.dev)
 
 #### Technologies:
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,mongodb,postgresql,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,mongodb,postgresql,prisma,linux&theme=dark)](https://skillicons.dev)
 
 ### Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tariqs26&show_icons=true&theme=tokyonight)
 <!--
 - 👯 I’m looking to collaborate on ...
 - ⚡ Fun fact: ...
+- https://github.com/tandpfun/skill-icons
 -->
