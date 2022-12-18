@@ -8,7 +8,7 @@
 ### Tech Stack:
 
 #### Languages:
-[![Languages](https://skillicons.dev/icons?i=js,ts,python,java,c,bash&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,python,c,bash&theme=dark)](https://skillicons.dev)
 
 #### Frameworks and Libraries:
 [![Frameworks and Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express&theme=dark)](https://skillicons.dev)
