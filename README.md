@@ -12,7 +12,7 @@
 
 #### Frameworks and Libraries:
 <!-- [![Frameworks and Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express&theme=dark)](https://skillicons.dev) -->
-[![Frameworks and Libraries](https://skillicons.dev/icons?i=react,redux,nodejs,express,mongoose,bootstrap&theme=dark)](https://skillicons.dev)
+[![Frameworks and Libraries](https://skillicons.dev/icons?i=react,redux,nodejs,express,bootstrap&theme=dark)](https://skillicons.dev)
 
 #### Technologies:
 <!-- [![Technologies](https://skillicons.dev/icons?i=git,mongodb,postgresql,prisma,vscode,linux&theme=dark)](https://skillicons.dev) -->
