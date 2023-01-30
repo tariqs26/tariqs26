@@ -20,6 +20,7 @@
 
 
 ### Stats:
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tariqs26&show_icons=true&theme=tokyonight&count_private=true)
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -27,4 +28,4 @@
 - https://github.com/tandpfun/skill-icons
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tariqs26&&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tariqs26&&layout=compact&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
