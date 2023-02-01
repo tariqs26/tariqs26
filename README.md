@@ -1,7 +1,7 @@
 ### Hi there 👋, I’m Saad
 - 🎓I’m a second year Computer Science student at McMaster University
 - 🔭 I’m currently working on an app to track job applications, and a review site for campgrounds
-- 🌱 I’m currently learning node.js, express.js, mongoDB, postgreSQL, next.js, prisma
+- 🌱 I’m currently learning postgreSQL, next.js, prisma, tailwind and trpc
 - 📫 Feel free to reach out to me on <a href=https://www.linkedin.com/in/saad-tariq-cs/ target=_blank>LinkedIn</a>
 - 💬 Ask me about anything related to web development
 
