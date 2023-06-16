@@ -17,7 +17,7 @@
 
 ##### Backend
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express, prisma&theme=dark)](https://skillicons.dev)
 
 #### Technologies:
 <!-- [![Technologies](https://skillicons.dev/icons?i=git,mongodb,postgresql,prisma,vscode,linux&theme=dark)](https://skillicons.dev) -->
