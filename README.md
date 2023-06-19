@@ -1,10 +1,9 @@
 ### Hi there 👋, I’m Saad
 - 🎓I’m a second year Computer Science student at McMaster University
-- 🔭 I’m currently working on an app to track job applications, and a Linked List visualizer
 - 📫 Feel free to reach out to me on <a href=https://www.linkedin.com/in/saad-tariq-cs/ target=_blank>LinkedIn</a>
 - 💬 Ask me about anything related to web development
 <!-- - 🌱 I’m currently learning MySQL, Next.js, Prisma and Tailwind. -->
-
+<!-- - 🔭 I’m currently working on an app to track job applications, and a Linked List visualizer -->
 ### Tech Stack:
 
 #### Languages:
