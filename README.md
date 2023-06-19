@@ -23,7 +23,7 @@
 [![Technologies](https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark)](https://skillicons.dev)
 
 #### Technologies:
-[![Technologies](https://skillicons.dev/icons?i=git,vite,mysql,mongodb&theme=dark)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=git,vite&theme=dark)](https://skillicons.dev)
 
 
 <!-- ### Stats:
