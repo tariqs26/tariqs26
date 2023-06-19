@@ -11,18 +11,17 @@
 [![Languages](https://skillicons.dev/icons?i=js,ts,python,c,bash&theme=dark)](https://skillicons.dev)
 
 #### Frameworks and Libraries:
-<!-- [![Frameworks and Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express&theme=dark)](https://skillicons.dev) -->
+
 ##### Frontend
 [![Frontend](https://skillicons.dev/icons?i=next,react,redux,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
 
 ##### Backend
-
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark)](https://skillicons.dev)
 
 #### Databases:
 [![Technologies](https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark)](https://skillicons.dev)
 
-#### Technologies:
+#### Tools and Technologies:
 [![Technologies](https://skillicons.dev/icons?i=git,vite&theme=dark)](https://skillicons.dev)
 
 
