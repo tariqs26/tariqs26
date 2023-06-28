@@ -24,10 +24,10 @@
 [![Technologies](https://skillicons.dev/icons?i=git,vite&theme=dark)](https://skillicons.dev)
 
 
-<!-- ### Stats:
+### Stats:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tariqs26&show_icons=true&theme=tokyonight&count_private=true)
- -->
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - ⚡ Fun fact: ...
