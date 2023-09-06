@@ -24,12 +24,11 @@
 [![Technologies](https://skillicons.dev/icons?i=git,vite&theme=dark)](https://skillicons.dev)
 
 
-<!--
 ### Stats:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tariqs26&show_icons=true&theme=tokyonight&count_private=true)
 
+<!--
 - ⚡ Fun fact: ...
 - https://github.com/tandpfun/skill-icons
--->
 
