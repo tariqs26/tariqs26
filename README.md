@@ -23,6 +23,11 @@
 #### Tools and Technologies:
 [![Technologies](https://skillicons.dev/icons?i=git,vite&theme=dark)](https://skillicons.dev)
 
+### Stats:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tariqs26&layout=compact)
+
+
 <!--
 ### Stats:
 
