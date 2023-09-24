@@ -7,7 +7,7 @@
 ### Tech Stack:
 
 #### Languages:
-[![Languages](https://skillicons.dev/icons?i=ts,js,python,c,haskell,pl&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,python,c,haskell&theme=dark)](https://skillicons.dev)
 
 #### Frameworks and Libraries:
 
