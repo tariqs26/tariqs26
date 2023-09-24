@@ -26,10 +26,10 @@
 ### Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tariqs26&layout=compact&theme=dark,langs_count=8)
+<!--
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tariqs26&show_icons=true&theme=tokyonight&count_private=true)
 
-<!--
 - ⚡ Fun fact: ...
 - https://github.com/tandpfun/skill-icons
 
