@@ -18,7 +18,7 @@
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark)](https://skillicons.dev)
 
 #### Databases:
-[![Technologies](https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=postgres,mongodb&theme=dark)](https://skillicons.dev)
 
 #### Tools and Technologies:
 [![Technologies](https://skillicons.dev/icons?i=git,vite&theme=dark)](https://skillicons.dev)
