@@ -12,7 +12,7 @@
 #### Frameworks and Libraries:
 
 ##### Frontend
-[![Frontend](https://skillicons.dev/icons?i=next,react,astro,redux,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=next,react,redux,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
 
 ##### Backend
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark)](https://skillicons.dev)
