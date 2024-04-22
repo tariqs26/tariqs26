@@ -25,7 +25,7 @@
 
 ### Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tariqs26&layout=compact&theme=tokyonight&langs_count=20&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tariqs26&layout=compact&theme=tokyonight&langs_count=6)
 
 <!--
 
