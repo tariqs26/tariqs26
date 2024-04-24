@@ -20,7 +20,7 @@
 #### Databases
 [![Databases](https://skillicons.dev/icons?i=postgres,mongodb,sqlite&theme=dark)](https://skillicons.dev)
 
-#### CI/CD
+#### DevOps
 [![CI/CD](https://skillicons.dev/icons?i=githubactions,docker,netlify&theme=dark)](https://skillicons.dev)
 
 #### Tools and Technologies
