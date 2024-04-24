@@ -17,13 +17,14 @@
 ##### Backend
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark)](https://skillicons.dev)
 
-#### Databases
+#### Tools and Technologies
+
+##### Databases
 [![Databases](https://skillicons.dev/icons?i=postgres,mongodb,sqlite&theme=dark)](https://skillicons.dev)
 
-#### DevOps
+##### DevOps
 [![CI/CD](https://skillicons.dev/icons?i=githubactions,docker,netlify&theme=dark)](https://skillicons.dev)
 
-#### Tools and Technologies
 [![Technologies](https://skillicons.dev/icons?i=git,vite,vitest,bun,linux&theme=dark)](https://skillicons.dev)
 
 ### Stats
