@@ -1,4 +1,4 @@
-### Hi there 👋, I’m Saad
+### Hi, I’m Saad
 - 🎓I’m a Computer Science student at McMaster University
 - 📫 Feel free to reach out to me on <a href=https://www.linkedin.com/in/saad-tariq-cs/ target=_blank>LinkedIn</a>
 - 💬 Ask me about anything related to software development and building computers
