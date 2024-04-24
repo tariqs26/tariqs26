@@ -4,12 +4,12 @@
 - 💬 Ask me about anything related to software development and building computers
 <!-- - 🌱 I’m currently learning MySQL, Next.js, Prisma and Tailwind. -->
 <!-- - 🔭 I’m currently working on an app to track job applications, and a Linked List visualizer -->
-### Tech Stack:
+### Tech Stack
 
-#### Languages:
+#### Languages
 [![Languages](https://skillicons.dev/icons?i=ts,js,python,c,cpp&theme=dark)](https://skillicons.dev)
 
-#### Frameworks and Libraries:
+#### Frameworks and Libraries
 
 ##### Frontend
 [![Frontend](https://skillicons.dev/icons?i=next,react,astro,redux,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
@@ -17,23 +17,15 @@
 ##### Backend
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark)](https://skillicons.dev)
 
-#### Databases:
+#### Databases
 [![Databases](https://skillicons.dev/icons?i=postgres,mongodb,sqlite&theme=dark)](https://skillicons.dev)
 
 #### CI/CD
 [![CI/CD](https://skillicons.dev/icons?i=githubactions,docker,netlify&theme=dark)](https://skillicons.dev)
 
-#### Tools and Technologies:
+#### Tools and Technologies
 [![Technologies](https://skillicons.dev/icons?i=git,vite,vitest,bun,linux&theme=dark)](https://skillicons.dev)
 
-### Stats:
+### Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tariqs26&layout=compact&theme=tokyonight&langs_count=6)
-
-<!--
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tariqs26&show_icons=true&theme=tokyonight&count_private=true)
-
-- ⚡ Fun fact: ...
-- https://github.com/tandpfun/skill-icons
-
