@@ -18,10 +18,13 @@
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark)](https://skillicons.dev)
 
 #### Databases:
-[![Technologies](https://skillicons.dev/icons?i=postgres,mongodb,sqlite&theme=dark)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,sqlite&theme=dark)](https://skillicons.dev)
+
+#### CI/CD
+[![CI/CD](https://skillicons.dev/icons?i=githubactions,docker,netlify&theme=dark)](https://skillicons.dev)
 
 #### Tools and Technologies:
-[![Technologies](https://skillicons.dev/icons?i=git,githubactions,docker,netlify,vite,vitest,bun,linux&theme=dark)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=git,vite,vitest,bun,linux&theme=dark)](https://skillicons.dev)
 
 ### Stats:
 
