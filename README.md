@@ -28,6 +28,6 @@
 [![CI/CD](https://skillicons.dev/icons?i=githubactions,docker,netlify&theme=dark)](https://skillicons.dev)
 
 
-### Stats
+## Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tariqs26&layout=compact&theme=tokyonight&langs_count=6)
