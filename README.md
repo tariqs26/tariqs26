@@ -25,7 +25,7 @@
 [![Databases](https://skillicons.dev/icons?i=postgres,mongodb,sqlite&theme=dark)](https://skillicons.dev)
 
 #### DevOps
-[![CI/CD](https://skillicons.dev/icons?i=githubactions,docker,netlify&theme=dark)](https://skillicons.dev)
+[![CI/CD](https://skillicons.dev/icons?i=githubactions,docker,netlify,vercel&theme=dark)](https://skillicons.dev)
 
 
 ## Stats
