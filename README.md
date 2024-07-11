@@ -19,7 +19,7 @@
 
 ### Tools and Technologies
 
-[![Technologies](https://skillicons.dev/icons?i=git,vite,vitest,bun,linux,postgres,mongodb,sqlite,githubactions,docker&theme=dark)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=git,vite,bun,linux,postgres,mongodb,sqlite,githubactions,docker&theme=dark)](https://skillicons.dev)
 
 
 ## Stats
