@@ -19,13 +19,7 @@
 
 ### Tools and Technologies
 
-[![Technologies](https://skillicons.dev/icons?i=git,vite,vitest,bun,linux&theme=dark)](https://skillicons.dev)
-
-#### Databases
-[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,sqlite&theme=dark)](https://skillicons.dev)
-
-#### DevOps
-[![CI/CD](https://skillicons.dev/icons?i=githubactions,docker,netlify,vercel&theme=dark)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=git,vite,vitest,bun,linux,postgres,mongodb,sqlite,githubactions,docker&theme=dark)](https://skillicons.dev)
 
 
 ## Stats
