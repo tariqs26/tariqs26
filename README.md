@@ -1,22 +1,22 @@
-# Hi, I’m Saad
-- 🎓I’m a Computer Science student at McMaster University
-- 📫 Feel free to reach out to me on <a href=https://www.linkedin.com/in/saad-tariq-cs/ target=_blank>LinkedIn</a>
-- 💬 Ask me about anything related to software development and building computers
-<!-- - 🌱 I’m currently learning MySQL, Next.js, Prisma and Tailwind. -->
-<!-- - 🔭 I’m currently working on an app to track job applications, and a Linked List visualizer -->
+# Hi, I’m Saad 👋
+
+🎓 I’m a Computer Science student at McMaster University  
+📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/saad-tariq-cs/)  
+💬 Ask me about anything related to software development and building computers  
+
+<!-- 🔭 I’m currently working on: -->
+<!-- 🌱 I’m currently learning MySQL, Next.js, Prisma, and Tailwind. -->
+
 ## Tech Stack
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=ts,js,python,go,c,cpp&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,python,go,c&theme=dark)](https://skillicons.dev)
 
-### Frameworks and Libraries
+### Frontend
+[![Frontend](https://skillicons.dev/icons?i=next,react,astro,redux,html,css,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
 
-#### Frontend
-[![Frontend](https://skillicons.dev/icons?i=next,react,astro,redux,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
+### Backend
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,sqlite,githubactions,docker&theme=dark)](https://skillicons.dev)
 
-#### Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark)](https://skillicons.dev)
-
-### Tools and Technologies
-
-[![Technologies](https://skillicons.dev/icons?i=git,vite,bun,linux,postgres,mongodb,sqlite,githubactions,docker&theme=dark)](https://skillicons.dev)
+### Other
+[![Other Technologies](https://skillicons.dev/icons?i=git,vite,bun,vitest,jest,linux&theme=dark)](https://skillicons.dev)
