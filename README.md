@@ -13,7 +13,7 @@
 [![Languages](https://skillicons.dev/icons?i=ts,js,python,go,c&theme=dark)](https://skillicons.dev)
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=next,react,astro,vite,redux,html,css,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=next,react,astro,redux,vite,html,css,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
 
 ### Backend
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,githubactions,docker,postman&theme=dark)](https://skillicons.dev)
