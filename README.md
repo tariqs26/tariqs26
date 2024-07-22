@@ -13,10 +13,10 @@
 [![Languages](https://skillicons.dev/icons?i=ts,js,python,go,c&theme=dark)](https://skillicons.dev)
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=next,react,astro,redux,html,css,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=next,react,astro,vite,redux,html,css,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
 
 ### Backend
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,sqlite,githubactions,docker&theme=dark)](https://skillicons.dev)
 
 ### Other
-[![Other Technologies](https://skillicons.dev/icons?i=git,vite,bun,vitest,jest,linux&theme=dark)](https://skillicons.dev)
+[![Other Technologies](https://skillicons.dev/icons?i=git,bun,vitest,jest,linux&theme=dark)](https://skillicons.dev)
