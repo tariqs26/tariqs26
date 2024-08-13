@@ -1,7 +1,6 @@
 # Hi, I’m Saad 👋
 
 🎓 I’m a Computer Science student at McMaster University\
-🌱 I’m currently learning Go and Rust\
 💬 Ask me about anything related to software development and building computers\
 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/saad-tariq-cs/)
 
