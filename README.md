@@ -15,7 +15,7 @@
 [![Frontend](https://skillicons.dev/icons?i=next,react,astro,redux,vite,html,css,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
 
 ### Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,githubactions,docker,postman&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,githubactions,docker&theme=dark)](https://skillicons.dev)
 
 ### Other
 [![Other Technologies](https://skillicons.dev/icons?i=git,npm,bun,vitest,jest,linux&theme=dark)](https://skillicons.dev)
