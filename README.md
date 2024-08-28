@@ -9,7 +9,7 @@
 ## Tech Stack
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=ts,js,python,go,c&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,python,go&theme=dark)](https://skillicons.dev)
 
 ### Frontend
 [![Frontend](https://skillicons.dev/icons?i=next,react,astro,redux,vite,html,css,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
