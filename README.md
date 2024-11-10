@@ -18,4 +18,4 @@
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,githubactions,docker&theme=dark)](https://skillicons.dev)
 
 ### Other
-[![Other Technologies](https://skillicons.dev/icons?i=git,npm,bun,vitest,jest,linux&theme=dark)](https://skillicons.dev)
+[![Other Technologies](https://skillicons.dev/icons?i=git,npm,bun,vitest,jest,linux,vscode&theme=dark)](https://skillicons.dev)
