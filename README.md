@@ -1,9 +1,9 @@
-# Hi, I’m Saad 👋
+# Hi, I’m Saad
 
-🎓 I’m a Computer Science student at McMaster University\
-💬 Ask me about anything related to web development and building computers\
-📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/saad-tariq-cs/)
-
+🎓 I’m a 4th year Computer Science student at McMaster University\
+📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/saad-tariq-cs/)\
+💬 Ask me about anything related to web development and building PCs
+ 
 <!-- 🔭 I’m currently working on: -->
 
 ## Tech Stack
