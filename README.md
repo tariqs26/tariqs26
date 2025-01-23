@@ -15,4 +15,4 @@
 [![Frontend](https://skillicons.dev/icons?i=react,next,astro,redux,nodejs,express,prisma,vite,vitest,jest,tailwind&theme=dark)](https://skillicons.dev)
 
 ### Tools & Technologies
-[![Other Technologies](https://skillicons.dev/icons?i=git,githubactions,docker,linux,npm,postgres,mongodb&theme=dark)](https://skillicons.dev)
+[![Other Technologies](https://skillicons.dev/icons?i=git,githubactions,docker,linux,bun,npm,postgres,mongodb&theme=dark)](https://skillicons.dev)
